@@ -1,0 +1,22 @@
+[
+  {
+    "_uid": "4e78b384-ab87-4bc3-8284-4762ea73afaa",
+    "username": "hikimo",
+    "email": "ranggaprastio123@gmail.com",
+    "password": "testing_account",
+    "role": "su",
+    "avatar_profile": "/store/images/avatars-000758133340-noaccn-t500x500.jpg",
+    "status": "- Nothing todo -",
+    "verified": true
+  },
+  {
+    "_uid": "0a248bc8-fcce-433c-99cb-f0f608d1aa0d",
+    "username": "zenith",
+    "email": "zenzen@work.com",
+    "password": "test_zenzen",
+    "role": "user",
+    "avatar_profile": "",
+    "status": "Zenzen the zap",
+    "verified": false
+  }
+]

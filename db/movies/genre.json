@@ -1,0 +1,30 @@
+[
+  {
+    "_id": 1,
+    "name": "animation"
+  },
+  {
+    "_id": 2,
+    "name": "comedy"
+  },
+  {
+    "_id": 3,
+    "name": "sci-fi"
+  },
+  {
+    "_id": 4,
+    "name": "horror"
+  },
+  {
+    "_id": 5,
+    "name": "drama"
+  },
+  {
+    "_id": 6,
+    "name": "historical"
+  },
+  {
+    "_id": 7,
+    "name": "fantasy"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "_id": 1,
+    "title": "Tonari no toro toro",
+    "creator": 1,
+    "genres": [1, 5, 7]
+  },
+  {
+    "_id": 2,
+    "title": "Resident Evil",
+    "creator": 3,
+    "genres": [4, 5]
+  }
+]
